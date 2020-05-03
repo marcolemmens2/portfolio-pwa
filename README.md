@@ -1,22 +1,24 @@
-# nuxt-portfolio
+# Zack Proser's portfolio site
 
-> My great Nuxt.js project
+[![Netlify Status](https://api.netlify.com/api/v1/badges/829157fb-72fc-40e9-b710-db7070ed8f7d/deploy-status)](https://app.netlify.com/sites/gifted-albattani-6bea85/deploys)
+
+> Vue Argon Design System for Nuxt
 
 ## Build Setup
 
-```bash
+``` bash
 # install dependencies
-$ yarn install
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ npm run dev
 
 # build for production and launch server
-$ yarn build
-$ yarn start
+$ npm run build
+$ npm start
 
 # generate static project
-$ yarn generate
+$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
